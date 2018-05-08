@@ -1,0 +1,59 @@
+body{
+	font-family: 'Sansita', sans-serif;
+	background-color: #011627;
+	border: 80px solid #2EC486;
+	border-top:0px;
+	padding-top: 40px; 
+	color: #FDFFFC;
+	border-bottom: 0px;
+}
+#san{
+	color: blue;
+}
+.abc{
+	font-family: 'Sansita', sans-serif;
+}
+#welcome{
+	color: rgba(0,0,0,0.5);
+	 text-align: center;
+
+}
+#glad{
+	font-family: 'Dosis', sans-serif;
+	color: rgba(0,0,0,0.7);
+	text-align: center;
+}
+#hotels{
+	text-align: left;
+	font-size: 30px;
+	padding-left: 15px;
+	text-decoration: none;
+}
+
+.art{
+	padding-bottom: 20px;
+	margin: 10px;
+}
+#one{
+	height: 320px;
+	width: 300px;
+	border: 10px solid white;
+}
+#two{
+	height: 300px;
+	width: 300px;
+	border: 10px solid white;
+}
+
+#three{
+	height: 320px;
+	width: 300px;
+	border: 10px solid white;
+}
+
+#four{
+	height: 320px;
+	width: 300px;
+	border: 10px solid white;
+}
+
